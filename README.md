@@ -5,14 +5,14 @@ Project Overview:-
 Technologies :-
 
 -Java
--Spring Boot
--Spring Data JPA
--MySQL
--Apache Kafka
--Eureka Server
--OpenFeign
--REST APIs
--Maven
+,Spring Boot
+,Spring Data JPA
+,MySQL
+,Apache Kafka
+,Eureka Server
+,OpenFeign
+,REST APIs
+Maven
 
 Microservices:-
 
