@@ -12,7 +12,7 @@ Technologies :-
 ,Eureka Server
 ,OpenFeign
 ,REST APIs
-Maven
+,Maven
 
 Microservices:-
 
